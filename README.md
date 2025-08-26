@@ -41,7 +41,7 @@ TalentScout is an AI hiring assistant designed to streamline the initial candida
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/talentscout-hiring-assistant.git
+   git clone https://github.com/princ0301/TalentScout.git
    cd talentscout-hiring-assistant
    ```
 
@@ -284,5 +284,6 @@ If you encounter any issues or have questions:
 ---
 
 **Built with ❤️ for better hiring experiences**
+
 
 ⭐ **Star this repo if you find it helpful!**
